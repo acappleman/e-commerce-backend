@@ -10,9 +10,9 @@ You can access the e-commerce backend by cloning the repo and running `npm start
 
 ## Usage
 
-Below is a screen recording of the completed e-commerce backend and its functionality.
+Below is a screen recording of the completed e-commerce backend and its functionality. For the full screen recording [go here](https://drive.google.com/file/d/1cdanpSmJpKBUI5VdgtPy4oSkgY1jLR_U/view).
 
-![E-Commerce Backend Screen Recording](https://drive.google.com/file/d/1cdanpSmJpKBUI5VdgtPy4oSkgY1jLR_U/view)
+![E-Commerce Backend Screen Recording](assets/images/e-commerce-backend-demo.gif)
 
 ## Credits
 
